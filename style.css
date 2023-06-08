@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(112, 153, 243, 0.288);
+}
+
+header {
+    /* background-image: url('./assets/gradient-dark-blue-futuristic-digital-background.jpg');
+     */
+    
+    background-color: rgb(14, 17, 31);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-toggler-icon{
+    background: url('https://api.iconify.design/pajamas/hamburger.svg?color=white') no-repeat center center / contain;
+    color: aqua;
+}
